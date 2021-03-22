@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/17733481/111929005-704e0c00-8a72-11eb-9e03-e35e8cea1fd1.png)
 
-Hi there! My name is CiCi and I'm passionate about learning and creating with code.
+Hi there! My name is Ciara and I'm passionate about code.
 
 
 🔭 I’m currently working on developing a web application for Japanese language learners. \
 🗻 I love learning languages and am studying for the Japanese Language Proficiency Test N2 (Advanced) this December. \
-🌱 Current hobby project is building a 6502 microprocessor-based breadboard computer.
+🌱 My current hobby project is building a 6502 microprocessor-based breadboard computer.
 <!--
 **cccswann/cccswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
