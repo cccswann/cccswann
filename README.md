@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/17733481/111929005-704e0c00-8a72-11eb-9e03-e35e8cea1fd1.png)
 
-Hi there! My name is Ciara and I'm passionate about crafting and maintaining software that has a positive impact on people's lives.
+## About Me
+
+I'm passionate about crafting and maintaining software that has a positive impact on people's lives.
 
 
 🔭  I’m currently working on developing a web application for Japanese language learners. \
