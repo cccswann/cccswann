@@ -11,7 +11,7 @@ I'm passionate about crafting and maintaining software that has a positive impac
 
 ## Contact Me
 
-[My LinkedIn](https://www.linkedin.com/in/ciaraswann) \
+[My LinkedIn Profile](https://www.linkedin.com/in/ciaraswann) \
 Email: cccswann@gmail.com
 <!--
 **cccswann/cccswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
