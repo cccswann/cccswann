@@ -8,6 +8,11 @@ I'm passionate about crafting and maintaining software that has a positive impac
 🔭  I’m currently working on developing a web application for Japanese language learners. \
 🗻  I love learning languages and am studying for the Japanese Language Proficiency Test N2 (Advanced) this December. \
 🌱  My current hobby project is building a 6502 microprocessor-based breadboard computer.
+
+## Contact Me
+
+[My LinkedIn](https://www.linkedin.com/in/ciaraswann) \
+Email: cccswann@gmail.com
 <!--
 **cccswann/cccswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
