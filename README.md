@@ -9,6 +9,10 @@ I'm passionate about crafting and maintaining software that has a positive impac
 🗻  I love learning languages and am actively studying for the Japanese Language Proficiency Test N2 (Advanced) this December. \
 🌱  My current hobby project is building a 6502 microprocessor-based breadboard computer.
 
+## My Projects
+
+Please see the pinned repositories below for the most recent projects I have been working on.
+
 ## Contact Me
 
 [<strong>My LinkedIn Profile</strong>](https://www.linkedin.com/in/ciaraswann) <br><br>
