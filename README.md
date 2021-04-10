@@ -13,9 +13,11 @@ I'm passionate about crafting and maintaining software that has a positive impac
 
 Please see the pinned repositories below for the most recent projects I have been working on.
 
-## Contact Me
+## Contact Me/Social Media
 
-[<strong>My LinkedIn Profile</strong>](https://www.linkedin.com/in/ciaraswann) <br><br>
+[<strong>My LinkedIn Profile</strong>](https://www.linkedin.com/in/ciaraswann) \
+[<strong>My Blog</strong>](https://ciaraswann.medium.com/)
+<br><br>
 <strong>Email:</strong> cccswann@gmail.com
 <!--
 **cccswann/cccswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
