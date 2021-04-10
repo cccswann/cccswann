@@ -4,10 +4,9 @@
 
 I'm passionate about crafting and maintaining software that has a positive impact on people's lives.
 
-
-🔭  I’m currently working on developing a web application for Japanese language learners. \
 🗻  I love learning languages and am actively studying for the Japanese Language Proficiency Test N2 (Advanced) this December. \
-🌱  My current hobby project is building a 6502 microprocessor-based breadboard computer.
+🔭  I’m currently working on developing a web application for Japanese language learners. \
+🌱  My current hobby project is building a 6502 microprocessor-based breadboard computer. 
 
 ## My Projects
 
