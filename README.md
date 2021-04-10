@@ -14,7 +14,7 @@ I'm passionate about crafting and maintaining software that has a positive impac
 
 Please see the pinned repositories below for my most recent projects.
 
-## Social Media/Contact Me
+## Social Media & Contact Info
 
 [<strong>LinkedIn Profile</strong>](https://www.linkedin.com/in/ciaraswann) \
 [<strong>Blog</strong>](https://ciaraswann.medium.com/)
