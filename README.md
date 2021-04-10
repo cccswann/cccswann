@@ -10,7 +10,7 @@ I'm passionate about crafting and maintaining software that has a positive impac
 
 ## My Projects
 
-Please see the pinned repositories below for the most recent projects I have been working on.
+Please see the pinned repositories below for my most recent projects.
 
 ## Contact Me/Social Media
 
