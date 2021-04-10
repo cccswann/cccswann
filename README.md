@@ -12,10 +12,10 @@ I'm passionate about crafting and maintaining software that has a positive impac
 
 Please see the pinned repositories below for my most recent projects.
 
-## Contact Me/Social Media
+## Social Media/Contact Me
 
-[<strong>My LinkedIn Profile</strong>](https://www.linkedin.com/in/ciaraswann) \
-[<strong>My Blog</strong>](https://ciaraswann.medium.com/)
+[<strong>LinkedIn Profile</strong>](https://www.linkedin.com/in/ciaraswann) \
+[<strong>Blog</strong>](https://ciaraswann.medium.com/)
 <br><br>
 <strong>Email:</strong> cccswann@gmail.com
 <!--
