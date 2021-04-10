@@ -8,7 +8,9 @@ I'm passionate about crafting and maintaining software that has a positive impac
 🔭  I’m currently developing a web application for Japanese language learners. \
 🌱  A hobby project that I'm currently working on is building a 6502 microprocessor-based breadboard computer. 
 
-## My Projects
+## My Projects & Experience
+
+<a href="https://drive.google.com/file/d/1Oi3a-1nhBuf71YIyOG3Sfs8ye5PejxmR/view?usp=sharing"><strong>Resume (PDF)</strong></a>
 
 Please see the pinned repositories below for my most recent projects.
 
