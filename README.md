@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm passionate about crafting and maintaining software that has a positive impact on people's lives.
+I'm passionate about learning; nothing beats the feeling of gaining insight on concepts that I originally found extremely challenging or complex. I'm continuously striving to craft and maintain software that benefits others.
 
 🗻  I love learning languages and am actively studying for the Japanese Language Proficiency Test N2 (Advanced) this December. \
 🔭  I’m currently developing a web application for Japanese language learners. \
