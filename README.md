@@ -13,7 +13,7 @@ I'm passionate about learning; nothing beats the feeling of gaining insight on c
 
 <a href="https://drive.google.com/file/d/1Oi3a-1nhBuf71YIyOG3Sfs8ye5PejxmR/view?usp=sharing"><strong>Resume (PDF)</strong></a>
 
-[Hoshii](https://github.com/cccswann/hoshii-app), is my most recent project.
+<a href="https://github.com/cccswann/hoshii-app" target="_blank" rel="noopener noreferrer"><strong>Hoshii</strong></a> (Most recent project)
 
 To see more, please see my pinned repositories located below.
 
