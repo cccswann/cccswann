@@ -22,7 +22,6 @@ To see more, please see my pinned repositories located below.
 [<strong>LinkedIn Profile</strong>](https://www.linkedin.com/in/ciaraswann) \
 [<strong>Blog</strong>](https://ciaraswann.medium.com/)
 <br><br>
-<strong>Email:</strong> cccswann@gmail.com
 <!--
 **cccswann/cccswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
