@@ -7,7 +7,7 @@ I'm passionate about learning; nothing beats the feeling of gaining insight on c
 🗻  I love learning languages and am actively studying for the Japanese Language Proficiency Test N2 (Advanced) this December. \
 🔭  I’m currently developing a web application for Japanese language learners. \
 🌱  A hobby project that I'm currently working on is building a 6502 microprocessor-based breadboard computer. \
-⚡  I'm a big mechanical keyboard enthusiast and love building custom keyboards in my free time. 
+⚡  I build custom keyboards in my free time. 
 
 ## My Projects & Experience
 
