@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm passionate about learning; nothing beats the feeling of gaining insight on concepts that I originally found extremely challenging or complex. I'm continuously striving to craft and maintain software that benefits others.
+I'm passionate about learning; nothing beats the feeling of gaining insight on concepts that I originally found challenging or complex. I'm continuously striving to craft and maintain software that benefits others.
 
 🗻  I love learning languages and am actively studying for the Japanese Language Proficiency Test N2 (Advanced) this December. \
 🌱  A hobby project that I'm currently working on is building a 6502 microprocessor-based breadboard computer. \
