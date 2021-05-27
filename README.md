@@ -4,7 +4,7 @@
 
 I'm passionate about learning; nothing beats the feeling of gaining insight on concepts that I originally found challenging or complex. I'm continuously striving to build and maintain software that benefits others.
 
-🗻  I love learning languages and am actively studying for the Japanese Language Proficiency Test N2 (Advanced) this December. \
+🗻  I love learning languages! My current language focus is Japanese (studying for the Japanese Language Proficiency Test N2 this December). \
 ⚡  A hobby project that I'm currently working on is a 6502 microprocessor-based breadboard computer. \
 ⌨️  I build custom keyboards in my free time. 
 
