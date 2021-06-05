@@ -10,7 +10,7 @@ I'm passionate about learning; nothing beats the feeling of gaining insight on c
 
 ## My Projects & Experience
 
-<a href="https://drive.google.com/file/d/1wZVKuz7LMPJ8VTC_rabZiJBwsD_NL1W1/view?usp=sharing"><strong>Resume (PDF)</strong></a>
+<a href="https://drive.google.com/file/d/1wZVKuz7LMPJ8VTC_rabZiJBwsD_NL1W1/view?usp=sharing"><strong>My Resume (PDF)</strong></a>
 
 <a href="https://github.com/cccswann/hoshii-app" target="_blank" rel="noopener noreferrer"><strong>Hoshii</strong></a> - My most recent project
 
