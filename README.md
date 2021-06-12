@@ -6,7 +6,7 @@ I am currently a Production Engineer Fellow at [Major League Hacking](https://ml
 
 I'm passionate about learning; nothing beats the feeling of gaining insight on concepts that I originally found challenging or complex. I'm continuously striving to build and maintain software that benefits others.
 
-🗻  I love learning languages! My current language focus is Japanese (Japanese Language Proficiency Test N2 this December). \
+🗻  I love languages! My current focus is Japanese (JLPT N2 this December), but I've studied Tagalog, Spanish, and Modern Greek. \
 ⚡  A hobby project that I'm currently working on is a 6502 microprocessor-based breadboard computer. \
 ⌨️  I build custom keyboards in my free time. 
 
