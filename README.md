@@ -2,6 +2,8 @@
 
 ## About Me
 
+I am currently a Production Engineer Fellow at [Major League Hacking](https://mlh.io/) and a Programming Organizer at [TechTogether Seattle](https://techtogether.io/).
+
 I'm passionate about learning; nothing beats the feeling of gaining insight on concepts that I originally found challenging or complex. I'm continuously striving to build and maintain software that benefits others.
 
 🗻  I love learning languages! My current language focus is Japanese (Japanese Language Proficiency Test N2 this December). \
