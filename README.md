@@ -20,6 +20,9 @@ I'm passionate about learning; nothing beats the feeling of gaining insight on c
 To see more, please see my pinned repositories located below.
 
 
+[![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=cccswann)](https://github.com/cccswann/github-readme-stats)
+
+
 ## Social Media & Contact Info
 
 [<strong>LinkedIn</strong>](https://www.linkedin.com/in/ciaraswann) \
