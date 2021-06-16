@@ -23,11 +23,12 @@ To see more, please see my pinned repositories located below.
 [![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=cccswann)](https://github.com/cccswann/github-readme-stats)
 
 
-## Social Media & Contact Info
+## Social Media
+<p align="center">
+<a href="https://www.linkedin.com/in/ciaraswann"><img src="https://user-images.githubusercontent.com/17733481/122280243-dd204900-ce9d-11eb-924c-a5c3f4f3b008.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
+<a href="https://ciaraswann.medium.com/"><img src="https://user-images.githubusercontent.com/17733481/122280735-5cae1800-ce9e-11eb-87b2-e7cb08acdbbe.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
+</p>
 
-[<strong>LinkedIn</strong>](https://www.linkedin.com/in/ciaraswann) \
-[<strong>Blog</strong>](https://ciaraswann.medium.com/)
-<br><br>
 <!--
 **cccswann/cccswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
