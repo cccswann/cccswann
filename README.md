@@ -10,6 +10,11 @@ I'm passionate about learning; nothing beats the feeling of gaining insight on c
 ⚡  A hobby project that I'm currently working on is a 6502 microprocessor-based breadboard computer. \
 ⌨️  I build custom keyboards in my free time. 
 
+<p align="center">
+<a href="https://www.linkedin.com/in/ciaraswann"><img src="https://user-images.githubusercontent.com/17733481/122280243-dd204900-ce9d-11eb-924c-a5c3f4f3b008.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
+<a href="https://ciaraswann.medium.com/"><img src="https://user-images.githubusercontent.com/17733481/122280735-5cae1800-ce9e-11eb-87b2-e7cb08acdbbe.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
+</p>
+
 ## My Projects & Experience
 
 <a href="https://drive.google.com/file/d/1wZVKuz7LMPJ8VTC_rabZiJBwsD_NL1W1/view?usp=sharing"><strong>My Resume (PDF)</strong></a>
@@ -20,14 +25,15 @@ I'm passionate about learning; nothing beats the feeling of gaining insight on c
 To see more, please see my pinned repositories located below.
 
 
-[![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=cccswann)](https://github.com/cccswann/github-readme-stats)
+<a href="https://github.com/cccswann/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cccswann&hide=issues&show_icons=true" />
+</a>
+<a href="https://github.com/cccswann/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cccswann&hide=scss,html,css,less&layout=compact" />
+</a>
 
 
-## Social Media
-<p align="center">
-<a href="https://www.linkedin.com/in/ciaraswann"><img src="https://user-images.githubusercontent.com/17733481/122280243-dd204900-ce9d-11eb-924c-a5c3f4f3b008.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
-<a href="https://ciaraswann.medium.com/"><img src="https://user-images.githubusercontent.com/17733481/122280735-5cae1800-ce9e-11eb-87b2-e7cb08acdbbe.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
-</p>
+
 
 <!--
 **cccswann/cccswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
