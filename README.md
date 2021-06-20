@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a <strong>Production Engineer Fellow</strong> at [Major League Hacking](https://mlh.io/) and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/).
+I am currently a <strong>Production Engineer Fellow</strong> at [Major League Hacking](https://mlh.io/)/Facebook and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/).
 
 I'm passionate about learning; nothing beats the feeling of gaining insight on concepts that I originally found challenging or complex. I'm continuously striving to build and maintain software that benefits others.
 
