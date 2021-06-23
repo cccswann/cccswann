@@ -27,8 +27,7 @@ To see more, please see my pinned repositories located below.
 
 <a href="https://github.com/cccswann/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cccswann&hide=issues&show_icons=true" />
-</a>
-<a href="https://github.com/cccswann/github-readme-stats">
+</a><a href="https://github.com/cccswann/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cccswann&hide=scss,less&layout=compact" />
 </a>
 
