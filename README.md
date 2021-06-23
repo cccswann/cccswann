@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/17733481/114068503-d13b5980-9852-11eb-9094-d1f69ed952b9.png)
+![Untitled-5 copy-1](https://user-images.githubusercontent.com/17733481/123041158-cac87280-d3a9-11eb-948d-28967efb5977.png)
 
 ## About Me
 
