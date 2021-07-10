@@ -8,7 +8,7 @@ I'm passionate about learning; nothing beats the feeling of gaining insight on c
 
 🗻  I love languages! My current focus is Japanese (JLPT N1 2022), but I've also studied Tagalog, Spanish, and Modern Greek. \
 ⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer. \
-⌨️  I build custom keyboards in my free time. 
+⌨️  I build custom mechanical keyboards in my free time. 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ciaraswann"><img src="https://user-images.githubusercontent.com/17733481/122280243-dd204900-ce9d-11eb-924c-a5c3f4f3b008.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
