@@ -19,7 +19,7 @@ I'm passionate about learning; nothing beats the feeling of gaining insight on c
 
 <a href="https://drive.google.com/file/d/1vuJ0N9RQNipdxy2yJRhjJ40mrzcWZmnj/view?usp=sharing"><strong>My Resume (PDF)</strong></a>
 
-<a href="https://github.com/cccswann/mlh-portfolio-site" target="_blank" rel="noopener noreferrer"><strong>MLH Fellowship Portfolio Hackathon Project</strong></a> - Most recent team project<br>
+<a href="https://github.com/cccswann/mlh-portfolio-site" target="_blank" rel="noopener noreferrer"><strong>MLH Fellowship Portfolio Kickoff Hackathon Project</strong></a> - Most recent team project<br>
 <a href="https://github.com/cccswann/hoshii-app" target="_blank" rel="noopener noreferrer"><strong>Hoshii</strong></a> - Most recent independent project
 
 To see more, please see my pinned repositories located below.
