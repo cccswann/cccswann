@@ -1,4 +1,4 @@
-![Untitled-5 copy-1 2](https://user-images.githubusercontent.com/17733481/123046212-ade36d80-d3b0-11eb-8c02-fee89c371fc5.png)
+<a href="https://ciaraswann.dev"><img src="https://user-images.githubusercontent.com/17733481/123046212-ade36d80-d3b0-11eb-8c02-fee89c371fc5.png" alt="Banner"></a>
 
 ## About Me
 
