@@ -4,7 +4,7 @@
 
 I am currently a <strong>Production Engineering Fellow</strong> at [Major League Hacking](https://mlh.io/)/Facebook and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/).
 
-I love how continuously evolving technology is, because there's always something new to learn! For me, nothing beats the feeling of gaining insight on concepts that I originally found complex. I'm continuously striving to become a better engineer and an active contributor to the building and maintainence of software that benefits others.
+I love how continuously evolving technology is, because there's always something new to learn! I'm continuously striving to become a better engineer and an active contributor to the building and maintainence of software that benefits others.
 
 🗻  I love languages! My current focus is Japanese (JLPT N1 2022), but I've also studied Tagalog, Spanish, and Modern Greek. \
 ⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer. \
