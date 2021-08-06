@@ -16,9 +16,9 @@ I am currently a <strong>Production Engineering Fellow</strong> at [Major League
 ## My Projects & Experience
 <a href="https://ciaraswann.dev"><strong>My Portfolio Site</strong></a> \
 <a href="https://drive.google.com/file/d/1vuJ0N9RQNipdxy2yJRhjJ40mrzcWZmnj/view?usp=sharing"><strong>My Resume (PDF)</strong></a>
-
-<a href="https://github.com/varsharathore16/MLH-Project-2" target="_blank" rel="noopener noreferrer"><strong>Foodstagram (MLH Team Project)</strong></a> - Most recent team project<br>
-<a href="https://github.com/cccswann/hoshii-app" target="_blank" rel="noopener noreferrer"><strong>Hoshii</strong></a> - Most recent independent project
+#### Software Projects
+- <a href="https://github.com/varsharathore16/MLH-Project-2" target="_blank" rel="noopener noreferrer"><strong>Foodstagram (MLH Team Project)</strong></a> - Most recent team project - Built with Flask, MongoDB.<br>
+- <a href="https://github.com/cccswann/hoshii-app" target="_blank" rel="noopener noreferrer"><strong>Hoshii</strong></a> - Most recent independent project - Built with Ruby on Rails, SQLite3.
 
 To see more, please see my pinned repositories located below.
 
