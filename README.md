@@ -10,8 +10,7 @@ I am currently a <strong>Production Engineering Fellow</strong> at [Major League
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ciaraswann"><img src="https://user-images.githubusercontent.com/17733481/122280243-dd204900-ce9d-11eb-924c-a5c3f4f3b008.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
-<a href="https://ciaraswann.medium.com/"><img src="https://user-images.githubusercontent.com/17733481/122280735-5cae1800-ce9e-11eb-87b2-e7cb08acdbbe.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
-</p>
+
 
 ## My Projects & Experience
 <a href="https://ciaraswann.dev"><strong>My Portfolio Site</strong></a> \
