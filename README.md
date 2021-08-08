@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a <strong>Production Engineering Fellow</strong> at [Major League Hacking](https://mlh.io/)/Facebook and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Pursuing a Masters in Computer Science from an undergraduate background in Business Administration (Accounting) and Communications.
+I am currently a <strong>Production Engineering Fellow</strong> at [Major League Hacking](https://mlh.io/)/Facebook and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Pursuing a Masters in Computer Science from an undergraduate background in Business Administration and Communications.
 
 ⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer. \
 ⌨️  I build custom mechanical keyboards in my free time. \
