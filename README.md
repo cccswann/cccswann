@@ -17,7 +17,7 @@ I am currently a <strong>Production Engineering Fellow</strong> at [Major League
 <a href="https://drive.google.com/file/d/18whs4GjgyQJdVlfI4bw98MFwcQBmn6rn/view?usp=sharing"><strong>My Resume (PDF)</strong></a>
 #### Software Projects
 - <a href="https://github.com/varsharathore16/MLH-Project-2" target="_blank" rel="noopener noreferrer"><strong>Foodstagram (MLH Team Project)</strong></a> - Most recent team project - Built with Flask, MongoDB.<br>
-- <a href="https://github.com/cccswann/hoshii-app" target="_blank" rel="noopener noreferrer"><strong>Hoshii</strong></a> - Most recent independent project - Built with Ruby on Rails, SQLite3.
+- <a href="https://github.com/cccswann/shigoto-frontend" target="_blank" rel="noopener noreferrer"><strong>Hoshii</strong></a> - Most recent independent project - Built with React, Redux, Rails API, PostgreSQL.
 
 To see more, please see my pinned repositories located below.
 
