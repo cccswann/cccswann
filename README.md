@@ -13,7 +13,7 @@ I am currently a <strong>Production Engineering Fellow</strong> at [Major League
 
 
 ## My Projects & Experience
-<a href="https://ciaraswann.dev"><strong>My Portfolio Site</strong></a> \
+<a href="https://ciaraswann.dev"><strong>My Portfolio Site</strong></a> - Built with Gatsby \
 <a href="https://drive.google.com/file/d/18whs4GjgyQJdVlfI4bw98MFwcQBmn6rn/view?usp=sharing"><strong>My Resume (PDF)</strong></a>
 #### Software Projects
 - <a href="https://github.com/varsharathore16/MLH-Project-2" target="_blank" rel="noopener noreferrer"><strong>Foodstagram (MLH Team Project)</strong></a> - Most recent team project - Built with Flask, MongoDB.<br>
