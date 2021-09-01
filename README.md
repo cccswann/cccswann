@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong> and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/).
+I am currently a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong> and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Pursuing my Master's in Computer Science.
 
 ⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer (I also love Raspberry Pi Projects). \
 ⌨️  I build custom mechanical keyboards in my free time. \
