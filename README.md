@@ -4,7 +4,7 @@
 
 I am currently a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong> and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Pursuing my Master's in Computer Science.
 
-⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer (I also love Raspberry Pi Projects). \
+⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer (I also love Raspberry Pi projects). \
 ⌨️  I build custom mechanical keyboards in my free time. \
 🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek.
 
