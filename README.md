@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am currently wrapping up as a <strong>Production Engineering Fellow</strong> at [Major League Hacking](https://mlh.io/)/Facebook. I'm also a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/).
+I am currently a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong> and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/).
 
-⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer. \
+⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer (I also love Raspberry Pi Projects). \
 ⌨️  I build custom mechanical keyboards in my free time. \
 🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek.
 
