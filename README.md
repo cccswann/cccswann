@@ -14,7 +14,7 @@ I'm a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shad
 
 ## My Projects & Experience
 <a href="https://ciaraswann.dev"><strong>My Portfolio Site</strong></a> - Built with Gatsby, GraphQL. Hosted on Gatsby Cloud. \
-<a href="https://drive.google.com/file/d/18whs4GjgyQJdVlfI4bw98MFwcQBmn6rn/view?usp=sharing"><strong>My Resume (PDF)</strong></a>
+<a href="https://drive.google.com/file/d/1-6prSN2NJ0_xRq7Vqwavw--dj8vWYy9o/view?usp=sharing"><strong>My Resume (PDF)</strong></a>
 #### Software Projects
 - <a href="https://github.com/varsharathore16/MLH-Project-2" target="_blank" rel="noopener noreferrer"><strong>Foodstagram (MLH Team Project)</strong></a> - Most recent team project - Built with Flask, MongoDB.<br>
 - <a href="https://github.com/cccswann/shigoto-client" target="_blank" rel="noopener noreferrer"><strong>Shigoto (Job Tracker)</strong></a> - Most recent independent project - Built with React, Redux, Rails API, PostgreSQL.
