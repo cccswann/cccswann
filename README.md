@@ -10,6 +10,8 @@ I'm a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shad
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ciaraswann"><img src="https://user-images.githubusercontent.com/17733481/122280243-dd204900-ce9d-11eb-924c-a5c3f4f3b008.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
+  <a href="https://leetcode.com/HeeresRoni/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="50" style="vertical-align:top; margin:4px"></a>
+  </p>
 
 
 ## My Projects & Experience
