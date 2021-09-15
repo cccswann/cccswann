@@ -16,7 +16,7 @@ I'm a <strong>Software Engineering Fellow</strong> at Major League Hacking, a <s
 
 ## My Projects & Experience
 <a href="https://ciaraswann.dev"><strong>Portfolio Site</strong></a> - Built with Gatsby, GraphQL. Hosted on Gatsby Cloud. \
-<a href="https://drive.google.com/file/d/1-6prSN2NJ0_xRq7Vqwavw--dj8vWYy9o/view?usp=sharing"><strong>Resume (PDF)</strong></a>
+<a href="https://drive.google.com/file/d/1cxWI-dym59y7WyusSRPNUukV_9VrvaVB/view?usp=sharing"><strong>Resume (PDF)</strong></a>
 #### Software Projects
 - <a href="https://github.com/varsharathore16/MLH-Project-2" target="_blank" rel="noopener noreferrer"><strong>Foodstagram (MLH Team Project)</strong></a> - Most recent team project - Built with Flask, MongoDB.<br>
 - <a href="https://github.com/cccswann/shigoto-client" target="_blank" rel="noopener noreferrer"><strong>Shigoto (Job Tracker)</strong></a> - Most recent independent project - Built with React, Redux, Rails API, PostgreSQL.
