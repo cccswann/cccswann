@@ -4,9 +4,10 @@
 
 I'm a <strong>Software Engineering Fellow</strong> at Major League Hacking and GitHub, a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong>, and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Currently pursuing a Master's in Computer Science.
 
+👩🏻‍🏫  Currently studying Advanced Software Design & Analysis and Distributed Systems (MIT 6.824 and *Designing Data-Intensive Applications*)\
 ⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer (I also love Raspberry Pi projects). \
 ⌨️  I build custom mechanical keyboards in my free time. \
-🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek.
+🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek. 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ciaraswann"><img src="https://user-images.githubusercontent.com/17733481/122280243-dd204900-ce9d-11eb-924c-a5c3f4f3b008.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
