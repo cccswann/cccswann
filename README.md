@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a <strong>Software Engineering Extern</strong> at GitHub (through Major League Hacking), a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong>, and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Currently pursuing a Master's in Computer Science.
+I'm a <strong>Software Engineer Extern</strong> at GitHub (through Major League Hacking), a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong>, and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Currently pursuing a Master's in Computer Science.
 
 👩🏻‍🏫  Currently studying Advanced Software Design & Analysis and Distributed Systems (MIT 6.824 and *Designing Data-Intensive Applications*)\
 ⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer (I also love Raspberry Pi projects). \
