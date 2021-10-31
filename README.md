@@ -16,7 +16,7 @@ I'm a <strong>Software Engineer Extern</strong> at GitHub (through Major League 
 
 
 ## My Projects & Experience
-<a href="https://ciaraswann.dev"><strong>Portfolio Site</strong></a> - Built with Gatsby, GraphQL. Hosted on Gatsby Cloud. \
+<a href="https://ciaraswann.dev"><strong>Portfolio Site</strong></a> - Built with Gatsby, GraphQL. Hosted on Gatsby Cloud. 
 
 #### Software Projects
 - <a href="https://github.com/varsharathore16/MLH-Project-2" target="_blank" rel="noopener noreferrer"><strong>Foodstagram (MLH Team Project)</strong></a> - Most recent team project - Built with Flask, MongoDB.<br>
