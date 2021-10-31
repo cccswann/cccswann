@@ -6,7 +6,7 @@ I'm a <strong>Software Engineer Extern</strong> at GitHub (through Major League 
 
 👩🏻‍🏫  Currently studying Advanced Software Design & Analysis and Distributed Systems (MIT 6.824 and *Designing Data-Intensive Applications*)\
 ⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer (I also love Raspberry Pi projects). \
-⌨️  I build custom mechanical keyboards in my free time. \
+⌨️  I build custom mechanical keyboards in my free time and even built an app to track mechanical keyboard groupbuys ([Hoshii](https://github.com/cccswann/hoshii-app)). \
 🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek. If you're interested in learning Japanese too, check out my [Japanese Language Youtubers](https://github.com/cccswann/japanese-language-youtubers) repo!
 
 <p align="center">
