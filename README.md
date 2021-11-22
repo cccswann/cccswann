@@ -5,7 +5,7 @@
 I'm a <strong>Software Engineer Extern</strong> at GitHub (through Major League Hacking), a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong>, and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Currently pursuing a Master's in Computer Science.
 
 👩🏻‍🏫  Currently studying Advanced Software Design & Analysis and Distributed Systems (MIT 6.824 and *Designing Data-Intensive Applications*)\
-⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer (I also love Raspberry Pi projects). \
+⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer. \
 ⌨️  I build custom mechanical keyboards in my free time and even built an app to track mechanical keyboard groupbuys ([Hoshii](https://github.com/cccswann/hoshii-app)). \
 🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek. If you're interested in learning Japanese too, check out my [Japanese Language Youtubers](https://github.com/cccswann/japanese-language-youtubers) repo!
 
@@ -15,14 +15,8 @@ I'm a <strong>Software Engineer Extern</strong> at GitHub (through Major League 
   </p>
 
 
-## My Projects & Experience
+## Experience
 <a href="https://ciaraswann.dev"><strong>Portfolio Site</strong></a> - Built with Gatsby, GraphQL. Hosted on Gatsby Cloud. 
-
-#### Software Projects
-- <a href="https://github.com/varsharathore16/MLH-Project-2" target="_blank" rel="noopener noreferrer"><strong>Foodstagram (MLH Team Project)</strong></a> - Most recent team project - Built with Flask, MongoDB.<br>
-- <a href="https://github.com/cccswann/shigoto-client" target="_blank" rel="noopener noreferrer"><strong>Shigoto (Job Tracker)</strong></a> - Most recent independent project - Built with React, Redux, Rails API, PostgreSQL.
-
-To see more, please see my pinned repositories located below.
 
 
 <a href="https://github.com/cccswann/github-readme-stats">
