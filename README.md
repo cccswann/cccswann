@@ -4,9 +4,10 @@
 
 I'm a <strong>Software Engineer Extern</strong> at GitHub (through Major League Hacking), a <strong>[Kubernetes](https://github.com/kubernetes) 1.23 Release Team Shadow</strong>, and a <strong>Programming Organizer</strong> at [TechTogether Seattle](https://techtogether.io/). Currently pursuing a Master's in Computer Science.
 
-👩🏻‍🏫  Currently studying Advanced Software Design & Analysis and Distributed Systems (MIT 6.824 and *Designing Data-Intensive Applications*)\
-⚡  A hobby project that I'm working on is a 6502 microprocessor-based breadboard computer. \
-⌨️  I build custom mechanical keyboards in my free time and even built an app to track mechanical keyboard groupbuys ([Hoshii](https://github.com/cccswann/hoshii-app)). \
+👩🏻‍🏫  Currently studying Advanced Software Design & Analysis (CSE 595) and Distributed Systems (MIT 6.824 and *Designing Data-Intensive Applications*)\
+📚 I really enjoy reading technical books, here's a link to my [Technical Reading Notes](https://github.com/cccswann/technical-reading-notes) repo.  \
+⚡  A hobby project I've been working on is a 6502 microprocessor-based breadboard computer. Inspired by Ben Eater. \
+⌨️  I build custom mechanical keyboards and even built an app to track mechanical keyboard groupbuys ([Hoshii](https://github.com/cccswann/hoshii-app)). \
 🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek. If you're interested in learning Japanese too, check out my [Japanese Language Youtubers](https://github.com/cccswann/japanese-language-youtubers) repo!
 
 <p align="center">
