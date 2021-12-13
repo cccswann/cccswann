@@ -9,9 +9,10 @@ I'm an incoming <strong>Software Engineer Intern</strong> at GoDaddy. Currently 
 ⌨️  I build custom mechanical keyboards and even built an app to track mechanical keyboard groupbuys ([Hoshii](https://github.com/cccswann/hoshii-app)). \
 🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek. If you're interested in learning Japanese too, check out my [Japanese Language Youtubers](https://github.com/cccswann/japanese-language-youtubers) repo!
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ciaraswann"><img src="https://user-images.githubusercontent.com/17733481/122280243-dd204900-ce9d-11eb-924c-a5c3f4f3b008.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
+<p align="center">  
+<a href="https://www.linkedin.com/in/ciaraswann"><img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
   <a href="https://leetcode.com/HeeresRoni/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="50" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.hackerrank.com/cccswann"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Leetcode" height="55" style="vertical-align:top; margin:2.5px"></a>
   </p>
 
 
