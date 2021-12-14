@@ -4,7 +4,7 @@
 
 I'm an incoming <strong>Software Engineer Intern</strong> at GoDaddy. Currently pursuing a Master's in Computer Science.
 
-📚 I really enjoy reading technical books. Check out my [Technical Reading Notes](https://github.com/cccswann/technical-reading-notes) repo (WIP).  \
+📚 I really enjoy reading technical books. See my [Technical Reading Notes](https://github.com/cccswann/technical-reading-notes) repo (WIP) for my notes on books and papers I've read.  \
 ⚡  A hobby project I've been working on is a 6502 microprocessor-based breadboard computer. Check out the other hardware projects I've completed in my [Project Write-Ups](https://github.com/cccswann/project-writeups) repo. \
 ⌨️  I build custom mechanical keyboards and even built an app to track mechanical keyboard groupbuys ([Hoshii](https://github.com/cccswann/hoshii-app)). \
 🗻  I love learning languages! My current focus is Japanese (JLPT 2022), but I've also studied Tagalog, Spanish, and Modern Greek. If you're interested in learning Japanese too, check out my [Japanese Language Youtubers](https://github.com/cccswann/japanese-language-youtubers) repo!
