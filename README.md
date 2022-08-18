@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a <strong>Software Development Engineer Intern</strong> at PagerDuty. Former SWE Intern at GoDaddy and GitHub, former Production Engineering Fellow at Facebook/Meta through MLH. Currently pursuing a Master's in Computer Science (see the courses I'm taking in my [**Course Notes**](https://github.com/cccswann/course-notes-assignments) repo).
+I'm a <strong>Software Development Engineer Intern</strong> at PagerDuty. Former SWE Intern at GoDaddy and GitHub and former Production Engineering Fellow at Facebook/Meta through MLH. Currently pursuing a Master's in Computer Science (see the courses I'm taking in my [**Course Notes**](https://github.com/cccswann/course-notes-assignments) repo).
 
 📚 I really enjoy reading technical books. See my [**Technical Reading Notes**](https://github.com/cccswann/technical-reading-notes) repo for my notes on books and papers I've read.  \
 ⚡  A hobby project I've been working on is a 6502-based breadboard computer. Check out other hardware projects I've completed in my [**Project Write-Ups**](https://github.com/cccswann/project-writeups) repo (with video demos). \
