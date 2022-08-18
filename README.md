@@ -20,10 +20,10 @@ I'm a <strong>Software Development Engineer Intern</strong> at GoDaddy. Currentl
 <a href="https://ciaraswann.dev"><strong>Portfolio Site</strong></a> - Built with Gatsby, GraphQL. Hosted on Gatsby Cloud. 
 
 
-<a href="https://github.com/ccswann-godaddy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ccswann-godaddy&hide=issues&show_icons=true" />
+<a href="https://github.com/ciciswann/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ciciswann&hide=issues&show_icons=true" />
 </a><a href="https://github.com/cccswann/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccswann-godaddy&hide=scss,less&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciciswann&hide=scss,less&layout=compact" />
 </a>
 
 
