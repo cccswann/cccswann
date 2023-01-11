@@ -18,11 +18,10 @@ I'm a <strong>Software Engineer Intern</strong> at PagerDuty working with Kubern
 ## Experience
 <a href="https://ciaraswann.dev"><strong>Portfolio Site</strong></a> - Built with Gatsby, GraphQL. Hosted on Gatsby Cloud. 
 
-
 <a href="https://github.com/ciciswann/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ciciswann&hide=issues&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ciciswann&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/cccswann/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciciswann&hide=scss,less&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciciswann&layout=compact&theme=tokyonight&hide=scss" />
 </a>
 
 
