@@ -11,7 +11,7 @@ I'm a <strong>Software Engineer Intern</strong> at PagerDuty working with Kubern
 
 <p align="center">  
 <a href="https://www.linkedin.com/in/ciaraswann"><img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.hackerrank.com/cccswann"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Leetcode" height="55" style="vertical-align:top; margin:2.5px"></a>
+<!--   <a href="https://www.hackerrank.com/cccswann"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Leetcode" height="55" style="vertical-align:top; margin:2.5px"></a> -->
   </p>
 
 
