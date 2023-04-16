@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a <strong>Software Engineer Intern</strong> at PagerDuty working in Infrastructure with Kubernetes and Terraform. Former SWE Intern at GoDaddy and GitHub, and former Production Engineering Fellow at Facebook/Meta through MLH. Currently pursuing a Master's in Computer Science (see the courses I'm taking in my [**Course Notes**](https://github.com/cccswann/course-notes-assignments) repo).
+I'm a <strong>Software Engineer Intern</strong> at PagerDuty working in Infrastructure with Kubernetes and Terraform. Former SWE Intern at GoDaddy and GitHub, and former Production Engineering Fellow at Facebook/Meta through MLH. Currently completing a Master's in Computer Science (see the courses I'm taking in my [**Course Notes**](https://github.com/cccswann/course-notes-assignments) repo).
 
 📚 I really enjoy reading technical books. See my [**Technical Reading Notes**](https://github.com/cccswann/technical-reading-notes) repo for my notes on books and papers I've read.  \
 ⚡  A hobby project I've been working on is a 6502-based breadboard computer. Check out other hardware projects I've completed in my [**Project Write-Ups**](https://github.com/cccswann/project-writeups) repo (with video demos). \
 ⌨️  I build custom mechanical keyboards and even built an app to track mechanical keyboard groupbuys ([Hoshii](https://github.com/cccswann/hoshii-app)). \
-🗻  I love learning languages! My current focus is Japanese (JLPT N1), but I've also studied Tagalog, Spanish, and Modern Greek. If you're interested in learning Japanese too, check out my [Japanese Language Youtube](https://github.com/cccswann/japanese-language-youtubers) repo!
+🗻  I love learning languages! My current focus is Japanese (JLPT N1), but I've also studied Tagalog, Spanish, and Modern Greek. If you're interested in learning Japanese too, check out my [Japanese Language Youtube Channels](https://github.com/cccswann/japanese-language-youtubers) repo!
 
 <p align="center">  
 <a href="https://www.linkedin.com/in/ciaraswann"><img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
