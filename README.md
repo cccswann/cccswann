@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a <strong>Software Engineer Intern</strong> at PagerDuty working in Infrastructure with Kubernetes and Terraform. Former SWE Intern at GoDaddy and GitHub, and former Production Engineering Fellow at Facebook/Meta through MLH. Currently completing a Master's in Computer Science (see the courses I'm taking in my [**Course Notes**](https://github.com/cccswann/course-notes-assignments) repo).
+I recently graduated with my master's degree in Computer Science. Former SWE Intern at PagerDuty, GoDaddy, and GitHub, and former Production Engineering Fellow at Facebook/Meta through MLH. See the courses I took in my [**Course Notes**](https://github.com/cccswann/course-notes-assignments) repo.
 
 📚 I really enjoy reading technical books. See my [**Technical Reading Notes**](https://github.com/cccswann/technical-reading-notes) repo for my notes on books and papers I've read.  \
 ⚡  A hobby project I've been working on is a 6502-based breadboard computer. Check out other hardware projects I've completed in my [**Project Write-Ups**](https://github.com/cccswann/project-writeups) repo (with video demos). \
